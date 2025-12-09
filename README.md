@@ -1,0 +1,2 @@
+# Stock-Market-Price-Analysis-with-Technical-Indicators-
+Analyzed and worked with 5 years of historical stock data covering 491 companies, applying Pandas and NumPy to explore trends and evaluate key technical indicators such as RSI, SMA, EMA, MACD, Bollinger Bands, Volatility, etc.Developed visualizations using charts and graphs to interpret market behavior and support data driven financial analysis.
